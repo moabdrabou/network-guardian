@@ -31,10 +31,9 @@ Before you get started, make sure you have the following installed:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/network-guardian.git](https://github.com/YOUR_USERNAME/network-guardian.git)
+    git clone https://github.com/moabdrabou/network-guardian.git
     cd network-guardian
     ```
-    *(Replace `YOUR_USERNAME` with your actual GitHub username and `network-guardian` if you named your repo differently)*
 
 2.  **Create a Virtual Environment (Recommended):**
     ```bash
@@ -46,7 +45,6 @@ Before you get started, make sure you have the following installed:
     ```bash
     pip install python-nmap requests schedule
     ```
-    *(Alternatively, if you create a `requirements.txt` file with these libraries listed, you can use `pip install -r requirements.txt`)*
 
 ---
 
