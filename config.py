@@ -14,8 +14,8 @@ SCAN_LOG_FILE = f'{LOG_DIR}/scan_log.txt'
 
 # Option 2: Pushover Notification (Recommended for real-time alerts)
 # Go to https://pushover.net/ to get your User Key and create an Application to get an API Token.(Requires onetime payment. You can try it for 30 days for free)
-PUSHOVER_USER_KEY = 'uz3u5k8wg9kxia4v5vwvwf7of1wepw' # Replace with your Pushover User Key
-PUSHOVER_API_TOKEN = 'apcoj79tb8g8rqaczjov3xboygyrbp' # Replace with your Pushover API Token
+PUSHOVER_USER_KEY = 'YOUR_PUSHOVER_USER_KEY' # Replace with your Pushover User Key
+PUSHOVER_API_TOKEN = 'YOUR_PUSHOVER_API_TOKEN' # Replace with your Pushover API Token
 ENABLE_PUSHOVER = True # Set to True to enable Pushover notifications
 
 # Option 3: Email Notification (Requires SMTP server details)
